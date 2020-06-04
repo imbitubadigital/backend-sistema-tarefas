@@ -33,7 +33,6 @@ class ProfileController {
 
     user.merge(data)
     await user.save()
-
     return user
   }
 }

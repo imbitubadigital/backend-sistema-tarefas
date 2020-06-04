@@ -3,6 +3,7 @@
 /** @type {typeof import('@adonisjs/framework/src/Route/Manager')} */
 const Route = use('Route')
 
+Route.post('teste', 'TesteController.index')
 Route.post('session', 'SessionController.store')
 Route.post('users', 'ProfileController.store').validator('User/UserCreate')
 

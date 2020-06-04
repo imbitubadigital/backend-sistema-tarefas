@@ -45,4 +45,4 @@ Agora basta executar o seguinte comando:
 adonis serve --dev
 ```
 
-Agora sugerimos que acesse [Sistema de Tarefas](https://rocketseat.com.br) e siga as instruções de instalação do front da aplicação
+Agora sugerimos que acesse [Repositório do Front-end](https://github.com/imbitubadigital/sistema-de-tarefas) e siga as instruções de instalação
